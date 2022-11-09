@@ -25,4 +25,3 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: latest
-          repository: kidoti/node-three
